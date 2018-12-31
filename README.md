@@ -1,2 +1,0 @@
-# termuxtool
-termuxapktool
